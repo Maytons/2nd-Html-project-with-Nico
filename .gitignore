@@ -106,6 +106,6 @@ vllkyt1q6nrp051gmg.jpg
 # TernJS port file
 .tern-port
 *.jpg
-/image
+.image
 .jpg
-#image
+image
