@@ -99,10 +99,13 @@ dist
 
 # DynamoDB Local files
 .dynamodb/
+#vllkyt1q6nrp051gmg.jpg
+vllkyt1q6nrp051gmg.jpg
+vllkyt1q6nrp051gmg.jpg
 
 # TernJS port file
 .tern-port
 *.jpg
 /image
 .jpg
-image
+#image
